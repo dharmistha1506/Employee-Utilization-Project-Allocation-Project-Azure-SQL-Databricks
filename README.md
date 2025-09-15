@@ -1,9 +1,9 @@
-# Project Budget And Employee Utilization
+# Workforce Productivity & Project Cost Optimization
 
 ## Azure Databricks Dashboard Project
 
 ### Project Overview
-This project demonstrates building an interactive dashboard in Azure Databricks, analyzing Budget VS Employee Cost, Revenue VS Employee Cost, Total Active Projects VS Total Projects, Total Employees VS Utilized Employee, Top Profitable Projects, and Top Employees who worked on projects. The notebook contains data transformation, Cleaning, processing, analysis, and visualizations.
+This project demonstrates building an ETL Workflow and an interactive dashboard in Azure Databricks, analyzing Budget VS Employee Cost, Revenue VS Employee Cost, Total Active Projects VS Total Projects, Total Employees VS Utilized Employee, Top Profitable Projects, and Top Employees who worked on projects. The notebook contains data transformation, Cleaning, processing, analysis, and visualizations.
 
 ### Workflow 
 1. Accessed multiple CSV files from Azure Blob Storage using Databricks with Key Vault and IAM role authentication.
